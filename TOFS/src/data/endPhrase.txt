@@ -1,0 +1,184 @@
+.FTR Upon the Altar of ABS_NOUN
+.FTR On the Altar of ABS_NOUN
+.FTR Upon the Bloody Altar of ABS_NOUN
+.FTR On the Bloody Altar of ABS_NOUN
+.FTR at the Funeral Pyre
+.FTR At the Gates of Hell
+.FTR At the Mountains of Madness
+.FTR at the Shrine of Mortalities
+.FTR by Dogs
+.FTR by Fear
+.FTR by Hounds
+.FTR by Rejected Souls
+.F-R by the Mighty Hammer of Thor
+.F-- By the Stormwizard
+.F-R by Thor's Mighty Hammer
+.FTR Covered in Blood
+.FTR covered in Filth
+.FTR covering in Dirt
+.FTR Decay
+.FTR drifting to the End
+.FTR For Pleasure
+.FTR for Decadence
+.FTR for Eternity
+.FTR for Salvation
+.-TR For The Advanced Sadist
+.FTR From A Bleeding Heart
+.FTR From Empty Words
+.F-- from Mid-Gard
+.F-- from Middle Earth
+.F-- From the Dragonstar
+.FTR from the Lost Years
+.FTR from the Sea
+.FTR gaurded by Hounds
+.FTR guarded by Dogs
+.FTR Hiding in the Closet
+.FTR in Black Robes
+.FTR In Breathless Sleep
+.FTR in Brutality
+.FTR in Dark Faerytales
+.FTR in Disgust
+.FTR in Every Orifice
+.F-- in Middle Earth
+.FTR In Mourning
+.FTR In Our Quest For Satan
+.FTR in Pain
+.FTR In Quest For Satan
+.F-R in the Belly of the Beast
+.FTR in the Eyes of God
+.FTR in the Eyes of Satan
+.FTR in the Eyes of your God
+.FTR in the face of Satan
+.FTR in the face of the Devil
+.FTR in the Grave
+.F-- In the halls of Neter-khert
+.FTR in the Moonlight
+.F-- in the Pharaoh's Tomb
+.FTR in the Shadow
+.FTR In the shadow of your Black Wings
+.FTR in the Shadows
+.FTR in the shape of God
+.FTR in the shape of Satan
+.FTR in the shape of the Gods
+.FTR in the Vein
+.F-R in Valhalla
+.F-- in Worship of Ramses
+.FTR Infernous
+.FTR into Battle
+.FTR Into the Autumn Shade
+.FTR into the Pandemonium
+.FTR Made with Blood
+.FTR of an Enchanted Philosophy
+.FTR of Beherit
+.FTR of Black Wings
+.FTR of Blasphemous Horrors
+.FTR Of Characith
+.FTR of Christ
+.FTR Of Crimson Death
+.FTR Of Death
+.FTR of Death Sentence
+.FTR of Deception
+.FTR Of Destruction
+.FTR of Dreaded Deeds
+.FTR of Dysphoria
+.FTR of Evil
+.FTR of Evil Born
+.FTR Of Evil Spirits
+.FTR of Evil Thoughts
+.FTR of Existence
+.FTR Of Flesh
+.FTR of Helopolis
+.FTR of Infernal Legions
+.FTR of Infinite Malevolence
+.FTR of Inhumanity
+.FTR Of Ishtar
+.FTR of Jesus Christ
+.FTR of Jinn
+.FTR of Mankind
+.FTR of Metal
+.FTR of my Mystical Reign
+.FTR of Necrotic Tissue
+.FTR Of Night Primeval
+.F-- of Osiris
+.FTR Of Purest Fire
+.FTR of Purid Flesh
+.FTR of Rotting Flesh
+.FTR of Skulls
+.FTR Of Souls
+.FTR of Terror
+.FTR Of the Apocalypse Dragon
+.FTR Of the Appalling
+.FTR of the Betrayed
+.FTR of the Black Knowledge
+.FTR of the Cult
+.FTR of the Dark and Light
+.FTR of the Dead
+.FTR of the Empire
+.FTR of the Entities
+.F-R of the Evil One
+.F-R of the Firing Pits of Hell
+.FTR of the Frozen North
+.FTR of the Goat
+.FTR of the Half-Skull
+.FTR of the Heart
+.FTR of the Horned One
+.FTR of the Initiated
+.FTR of the Juggernaut
+.FTR Of the Light's Bane
+.FTR of the Live Autopsy
+.F-R of the Lost Gods
+.FTR of the Lost Kingdom
+.FTR of the Moon
+.FTR of the Necronomicon
+.FTR of the Nine-headed Serpent
+.FTR of the Pit
+.FTR of the Smoldering Corpse
+.FTR of the Smoldering Torso
+.FTR of the Squirming Cadaver
+.FTR of the Two-headed Goat
+.FTR of the Unholy Flames
+.FTR of the Victorium Aeternus
+.FTR Of the Weakening
+.FTR of Those Above
+.FTR of Time
+.FTR Of Tragedy
+.FTR of War
+.FTR Of Wrath
+.FTR of your Black Wings
+.FTR on cloven Hooves
+.FTR on Seraphim's Wings
+.FTR on the Altar of Humanity
+.FTR on the Altar of the Slaughtered
+.FTR on the backs of Bitch Goddess
+.FTR on the backs of Horned Beasts
+.FTR on the backs of Slutty Gods
+.F-- on the Banks of the Euphrates
+.FTR on the Bloody Altar of Humanity
+.FTR on the Bloody Altar of the Slaughtered
+.FTR on the Bloody Carcass of Christ
+.FTR on the Footsteps of Odin
+.FTR on the Funeral Pyre
+.FTR on the River Styx
+.FTR on the Seraphim
+.FTR on the way to hell
+.FTR on the wings of Night Serpents
+.FTR tempted by the Incubus
+.FTR tempted by the Succubus
+.FTR that are in Tattu
+.FTR To Remember
+.FTR to the Spectral Defile
+.FTR towards the Apocalypse
+.FTR towards the Armageddon
+.FTR trailed by the Hunter
+.FTR upon the Altar of Humanity
+.FTR upon the Altar of the ADJECTIVE Goddess
+.FTR upon the Altar of the Slaughtered
+.FTR upon the Bloody Altar of Humanity
+.FTR upon the Bloody Altar of the Slaughtered
+.FTR washed in Blood
+.FTR whilst carried by Slaves
+.FTR with Pain
+.FTR with the Number of the Beast
+.FTR within the Center of the Earth
+.FTR within this World
+.FTR Written in Blood
